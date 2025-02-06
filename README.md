@@ -19,6 +19,7 @@ Este repositório contém uma série de exercícios sobre fundamentos de redes d
 ## 🖥️ Exercícicos - Fundamentos de Redes
 ### 🔎 Teóricos
 1️⃣ O que é uma rede de computadores e qual sua principal finalidade?
+Uma rede de computadores é 
 
 2️⃣ Explique a diferença entre LAN, WAN E MAN, incluindo um exemplo para cada tipo.
 
