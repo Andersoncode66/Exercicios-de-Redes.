@@ -85,9 +85,41 @@ Dica: Use **arp-a** ou *nmap -sn 192.168.1.0/24** (substitua pelo IP correto da 
 
 -----------------------------------------------------------------------------------------------
 
+**💻 Práticos (Terminal Linux)**
 
+**🔹 1. Descobrir detalhes da conexão de rede**
 
+Utilize comandos no terminal para exibir:
+- O endereço MAC da interface de rede
+- O nome da interface de rede ativa
+- O status da interface de rede
 
+Dica: Use e ip link show, ifconfig ou ip a.
+
+**🔹 2. Descobrir seu IP externo**
+
+Use um comando para descobrir qual é o seu endereço IP público.
+Dica: Utilize curl ifconfig.me wget -q0- ifconfig.me.
+
+**🔹 3. Analisar portas abertas na máquina**
+
+Liste todas as conexões ativas e portas abertas no sistema.
+
+Dica: Use netstat -tulnp ou ss -tulnp.
+
+**🔹 4. Resolver um nome de domínio para endereço IP**
+
+Descubra o IP associado a um domínio (exemplo: www.google.com).
+
+Dica: Use nslookup ou dig.
+
+**🔹 5. Simular um teste de velocidade de rede via terminal**
+
+Verifique a velocidade de usa conexão com a internet diretamente pelo terminal.
+
+**🔹 6. Verificar latência da conexão com diferentes servidores**
+
+Meça o tempo de resposta para diferentes servidores ao redor  do mundo.
 
 
 
