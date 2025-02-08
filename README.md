@@ -123,5 +123,25 @@ Verifique a velocidade de usa conexão com a internet diretamente pelo terminal.
 Meça o tempo de resposta para diferentes servidores ao redor  do mundo.
 
 
+-------------------------------------------------------------------------
 
+**💻 Práticos (Terminal Linux)**
+
+**🔹 1. Identificando a Interface de Rede**
+
+Use o terminal Linux para descobrir as interfaces de rede disponíveis no seu sistema.
+
+**Tarefa**
+
+1. Abra o terminal.
+2. Execute o comando para listar as interfaces de rede.
+3. Identifique qual delas está ativa e conectada.
+
+💡 Dica: Você pode usar os comandos ip a, ifconfig (se estiver disponível) ou nmcli device status.
+
+📌 Perguntas:
+
+- Qual é o nome da interface de rede conectada à internet?
+- Ela usa IPv4 ou IPv6?
+---------------------------------------------------------------------------------------------------
 
